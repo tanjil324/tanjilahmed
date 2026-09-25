@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tanjil324.github.io/tanjilahmed/sitemap.xml
